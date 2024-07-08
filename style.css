@@ -26,12 +26,7 @@ body{
   width: 17rem;
   margin: 1.5rem;
 }
-.Todo_app{
-  background-color: blanchedalmond;
-  width:40%;
-  height: auto;
-  border-radius: 1rem;
-}
+
 ul li{
   list-style: none;
   font-size: 17px;
